@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiBaseUrl: 'http://localhost:8088/api/v1',        
+    apiBaseUrl: 'https://deploy2-2.onrender.com/api/v1',        
 };
